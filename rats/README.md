@@ -1,4 +1,4 @@
 # Rats Unleashed!
 
-![rats](rats.jpg)
+![rats](rats.png)
 
